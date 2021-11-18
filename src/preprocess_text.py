@@ -24,10 +24,11 @@ def tokenize_text(text):
     
     """
     text - input text for which I need to tokenize
-    output returns a list of tokens
+    output returns a list of tokensdddjshd
     
     """
     return text.split()
+
 
 def something():
     return 2
